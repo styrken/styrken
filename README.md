@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋
 I work as a software developer with years of experience within the field of web, apps and server architecture. I like to learn new technologies and that is also why I have a broad experience within this field - I simply can’t stop myself.
 
 - 🔭 Working on multiple frontend and backend projects using Ruby on Rails, Swift, React and Nodejs
@@ -14,7 +14,17 @@ I work as a software developer with years of experience within the field of web,
 
 <br><br>
 
-## Expertise
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Migrate Fastlane to use Auth Keys](https://byteable.medium.com/migrate-fastlane-to-use-auth-keys-9113a666cd5d?source=rss-a0fe90cb8fa9------2)
+- [HEY a Privacy Driven Email](https://byteable.medium.com/hey-a-privacy-driven-email-3293c19cf7a3?source=rss-a0fe90cb8fa9------2)
+- [Build your own reusable npm react package with Rollup](https://byteable.medium.com/build-your-own-reusable-npm-react-package-with-rollup-da02b4f470f2?source=rss-a0fe90cb8fa9------2)
+- [Using VIM for React, Rails & Node development](https://byteable.medium.com/using-vim-for-react-rails-node-development-80cc27bdd80b?source=rss-a0fe90cb8fa9------2)
+- [Build and Deploy your iOS app with Github Actions and Fastlane](https://byteable.medium.com/build-and-deploy-your-ios-app-with-github-actions-and-fastlane-48c328cc5541?source=rss-a0fe90cb8fa9------2)
+<!-- BLOG-POST-LIST:END -->
+
+# Expertise
 
 <img align="left" alt="ruby on rails" src="https://img.shields.io/badge/ruby%20on%20rails-%2320232a.svg?&style=for-the-badge&logo=rubyonrails&logoColor=%2361DAFB" />
 <img align="left" alt="swift" src="https://img.shields.io/badge/swift-%2320232a.svg?&style=for-the-badge&logo=swift&logoColor=%2361DAFB" />
@@ -46,14 +56,3 @@ I work as a software developer with years of experience within the field of web,
 <img align="left" alt="github" src="https://img.shields.io/badge/github%20actions-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB" />
 <img align="left" alt="bitbucket" src="https://img.shields.io/badge/bitbucket%20pipelines-%2320232a.svg?&style=for-the-badge&logo=bitbucket&logoColor=%2361DAFB" />
 <img align="left" alt="gitlab" src="https://img.shields.io/badge/gitlab%20pipelines-%2320232a.svg?&style=for-the-badge&logo=gitlab&logoColor=%2361DAFB" />
-
-<br><br>
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Migrate Fastlane to use Auth Keys](https://byteable.medium.com/migrate-fastlane-to-use-auth-keys-9113a666cd5d?source=rss-a0fe90cb8fa9------2)
-- [HEY a Privacy Driven Email](https://byteable.medium.com/hey-a-privacy-driven-email-3293c19cf7a3?source=rss-a0fe90cb8fa9------2)
-- [Build your own reusable npm react package with Rollup](https://byteable.medium.com/build-your-own-reusable-npm-react-package-with-rollup-da02b4f470f2?source=rss-a0fe90cb8fa9------2)
-- [Using VIM for React, Rails & Node development](https://byteable.medium.com/using-vim-for-react-rails-node-development-80cc27bdd80b?source=rss-a0fe90cb8fa9------2)
-- [Build and Deploy your iOS app with Github Actions and Fastlane](https://byteable.medium.com/build-and-deploy-your-ios-app-with-github-actions-and-fastlane-48c328cc5541?source=rss-a0fe90cb8fa9------2)
-<!-- BLOG-POST-LIST:END -->
