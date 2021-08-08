@@ -48,4 +48,7 @@ I work as a software developer with years of experience within the field of web,
 <img align="left" alt="gitlab" src="https://img.shields.io/badge/gitlab%20pipelines-%2320232a.svg?&style=for-the-badge&logo=gitlab&logoColor=%2361DAFB" />
 
 
-
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
