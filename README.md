@@ -22,6 +22,10 @@ I work as a software developer with years of experience within the field of web,
 - [Build your own reusable npm react package with Rollup](https://byteable.medium.com/build-your-own-reusable-npm-react-package-with-rollup-da02b4f470f2?source=rss-a0fe90cb8fa9------2)
 - [Using VIM for React, Rails & Node development](https://byteable.medium.com/using-vim-for-react-rails-node-development-80cc27bdd80b?source=rss-a0fe90cb8fa9------2)
 - [Build and Deploy your iOS app with Github Actions and Fastlane](https://byteable.medium.com/build-and-deploy-your-ios-app-with-github-actions-and-fastlane-48c328cc5541?source=rss-a0fe90cb8fa9------2)
+- [I lost my ssh key for my Amazon EC2 instance](https://byteable.medium.com/i-lost-my-ssh-key-for-my-amazon-ec2-instance-e4fe43baf794?source=rss-a0fe90cb8fa9------2)
+- [How to fit VIPER into your app](https://byteable.medium.com/how-to-fit-viper-into-your-app-1aa194822580?source=rss-a0fe90cb8fa9------2)
+- [Why use a known architecture in your app?](https://byteable.medium.com/why-use-a-known-architecture-in-your-app-39a63d10969f?source=rss-a0fe90cb8fa9------2)
+- [Handle Apple Sign In on the server (Ruby on Rails)](https://byteable.medium.com/handle-apple-sign-in-on-the-server-ruby-on-rails-78f0d3b4991d?source=rss-a0fe90cb8fa9------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Expertise
