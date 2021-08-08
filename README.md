@@ -1,8 +1,8 @@
 # Hello World 👋
 I work as a software developer with years of experience within the field of web, apps and server architecture. I like to learn new technologies and that is also why I have a broad experience within this field - I simply can’t stop myself.
 
-- 🔭 Working on multiple frontend and backend projects using Ruby on Rails, Swift, React and Nodejs
-- 🌱 Learning new things every weeek
+- 🧑‍💻 Working on multiple frontend and backend projects using Ruby on Rails, Swift, React and Nodejs
+- 🌱 Learning new things every day
 - 📰 Writes about it on medium
 
 ## Connect with me
