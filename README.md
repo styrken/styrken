@@ -28,7 +28,7 @@ I work as a software developer with years of experience within the field of web,
 - [Handle Apple Sign In on the server (Ruby on Rails)](https://byteable.medium.com/handle-apple-sign-in-on-the-server-ruby-on-rails-78f0d3b4991d?source=rss-a0fe90cb8fa9------2)
 <!-- BLOG-POST-LIST:END -->
 
-# Expertise
+# Interests
 
 <img align="left" alt="ruby on rails" src="https://img.shields.io/badge/ruby%20on%20rails-%2320232a.svg?&style=for-the-badge&logo=rubyonrails&logoColor=%2361DAFB" />
 <img align="left" alt="swift" src="https://img.shields.io/badge/swift-%2320232a.svg?&style=for-the-badge&logo=swift&logoColor=%2361DAFB" />
@@ -39,8 +39,6 @@ I work as a software developer with years of experience within the field of web,
 
 <br><br>
 
-### Platforms
-
 <img align="left" alt="ios" src="https://img.shields.io/badge/ios-%2320232a?logo=ios&logoColor=%2361DAFB&style=for-the-badge" />
 <img align="left" alt="mac" src="https://img.shields.io/badge/mac-%2320232a?logo=macos&logoColor=%2361DAFB&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/android-%2320232a?logo=android&logoColor=%2361DAFB&style=for-the-badge" />
@@ -48,15 +46,12 @@ I work as a software developer with years of experience within the field of web,
 
 <br><br>
 
-### Dev Ops
-
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%2320232a?logo=amazon-aws&logoColor=%2361DAFB&style=for-the-badge" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker-%2320232a?logo=docker&logoColor=%2361DAFB&style=for-the-badge" />
 <img align="left" alt="fastlane" src="https://img.shields.io/badge/fastlane-%2320232a.svg?&style=for-the-badge&logo=fastlane&logoColor=%2361DAFB" />
 
 <br><br>
 
-### Pipelines
 <img align="left" alt="github" src="https://img.shields.io/badge/github%20actions-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB" />
 <img align="left" alt="bitbucket" src="https://img.shields.io/badge/bitbucket%20pipelines-%2320232a.svg?&style=for-the-badge&logo=bitbucket&logoColor=%2361DAFB" />
 <img align="left" alt="gitlab" src="https://img.shields.io/badge/gitlab%20pipelines-%2320232a.svg?&style=for-the-badge&logo=gitlab&logoColor=%2361DAFB" />
